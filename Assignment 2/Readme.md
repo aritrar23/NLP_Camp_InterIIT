@@ -1,0 +1,1 @@
+I have implemented advanced retrieval methods for RAG - namely query expansion - (i) with generated answers, (ii) with multiple queries. 
